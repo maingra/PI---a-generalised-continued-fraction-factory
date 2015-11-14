@@ -4,7 +4,8 @@ Using M500 extended numbers - generalised continued fraction to calculate PI or 
 requirements
 ------------
 
-Ruby programming language
+NB requires Ruby programming language
+https://www.ruby-lang.org/en/
 
 NB requires 'm500' # Extended number ruby library
 type at prompt
@@ -28,7 +29,7 @@ Specifically the Generalized continued fraction (see https://en.wikipedia.org/wi
 To use
 ------
 type at prompt
->>ruby 'this_files_name' >> output.rb
+>>ruby pi-gcff_TMP.rb >> output.rb
 then type
 >>ruby output.rb
 
