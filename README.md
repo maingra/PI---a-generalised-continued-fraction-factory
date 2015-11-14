@@ -1,7 +1,7 @@
 # PI---a-generalised-continued-fraction-factory
 Using M500 extended numbers - generalised continued fraction to calculate PI or π
 
-requirements
+Prerequisite
 ------------
 
 NB requires Ruby programming language
