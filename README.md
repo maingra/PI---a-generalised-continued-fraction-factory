@@ -9,7 +9,7 @@ https://www.ruby-lang.org/en/
 
 NB requires 'm500' # Extended number ruby library <br>
 type at prompt <br>
->>gem install M500
+  :> gem install M500 <br>
 M500 is a powerful new library of number objects.<br>
 A mathematics library designed to minimize my surprise when working with maths and analysis.<br>
 M500 users are freed from technical issues and can concentrate on the Math.<br>
@@ -29,9 +29,9 @@ Specifically the Generalized continued fraction<br>
 To use
 ------
 type at prompt<br>
->>ruby pi-gcff_TMP.rb >> output.rb<br>
+  :> ruby pi-gcff_TMP.rb >> output.rb<br>
 then type<br>
->>ruby output.rb
+  :> ruby output.rb
 
 Warning
 -------
